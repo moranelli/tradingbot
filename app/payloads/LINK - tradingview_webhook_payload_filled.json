@@ -1,0 +1,23 @@
+{
+  "passphrase": "yourpassphrasepoxy",
+  "time": "1617660087000",
+  "exchange": "BYBIT",
+  "ticker": "LINKUSDT",
+  "bar": {
+    "time": "1617660087000",
+    "open": 31.897,
+    "high": 32.007,
+    "low": 31.897,
+    "close": 32.007,
+    "volume": 648
+  },
+  "strategy": {
+    "order_action": "buy",
+    "order_price": 31.897,
+    "order_id": "hawk_buy_order",
+    "position_side": "long",
+    "atr": 0.2273284073,
+    "sl_atr": 0.8,
+    "reward_ratio": 1.3
+  }
+}

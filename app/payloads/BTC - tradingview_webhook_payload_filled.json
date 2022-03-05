@@ -1,0 +1,23 @@
+{
+  "passphrase": "yourpassphrasepoxy",
+  "time": "1617660087000",
+  "exchange": "BYBIT",
+  "ticker": "BTCUSDT",
+  "bar": {
+    "time": "1617660087000",
+    "open": 56.300,
+    "high": 56.300,
+    "low": 56.300,
+    "close": 56.300,
+    "volume": 648
+  },
+  "strategy": {
+    "order_action": "buy",
+    "order_price": 56.300,
+    "order_id": "hawk_buy_order",
+    "position_side": "long",
+    "atr": 349.333333333,
+    "sl_atr": 0.8,
+    "reward_ratio": 1.3
+  }
+}

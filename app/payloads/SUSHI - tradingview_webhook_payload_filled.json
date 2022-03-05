@@ -1,0 +1,23 @@
+{
+    "passphrase": "yourpassphrasepoxy",
+    "time": "1616634240000",
+    "exchange": "BINANCE",
+    "ticker": "SUSHIUSDTPERP",
+    "bar": {
+      "time": "1616634240000",
+      "open": 14.9632,
+      "high": 14.9632,
+      "low": 14.9632,
+      "close": 14.9632,
+      "volume": 19
+    },
+    "strategy": {
+      "order_action": "buy",
+      "order_price": 14.9632,
+      "order_id": "hawk_buy_order",
+      "position_side": "long",
+      "atr": 0.0657,
+      "sl_atr": 0.8,
+      "reward_ratio": 1.5
+    }
+}

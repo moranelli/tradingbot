@@ -1,0 +1,21 @@
+{
+    "passphrase": "yourpassphrase",
+    "time": "{{timenow}}",
+    "exchange": "{{exchange}}",
+    "ticker": "{{ticker}}",
+    "bar": {
+        "time": "{{time}}",
+        "open": {{open}},
+        "high": {{high}},
+        "low": {{low}},
+        "close": {{close}},
+        "volume": {{volume}}
+    },
+    "strategy": {
+        "order_action": "{{strategy.order.action}}",
+        "order_price": {{strategy.order.price}},
+        "order_id": "{{strategy.order.id}}",
+        "position_side": "{{strategy.market_position}}",
+        "atr": ""
+    }
+}

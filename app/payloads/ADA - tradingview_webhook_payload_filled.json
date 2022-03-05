@@ -1,0 +1,23 @@
+{
+  "passphrase": "yourpassphrasepoxy",
+  "time": "1617065101000",
+  "exchange": "BYBIT",
+  "ticker": "ADAUSDT",
+  "bar": {
+    "time": "1617065101000",
+    "open": 42.770,
+    "high": 42.770,
+    "low": 42.770,
+    "close": 42.770,
+    "volume": 0.67
+  },
+  "strategy": {
+    "order_action": "buy",
+    "order_price": 10.550,
+    "order_id": "hawk_buy_order",
+    "position_side": "long",
+    "atr": 0.0048290783,
+    "sl_atr": 0.8,
+    "reward_ratio": 1.5
+  }
+}
